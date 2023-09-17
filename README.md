@@ -3,7 +3,9 @@ This Python script creates a simple calculator app using the Streamlit library. 
 
 ## Code Explanation
 1. Import the necessary module:
-~~~import streamlit as st
+
+~~~json
+import streamlit as st
 ~~~
 2. Add a title and input fields for the two numbers and the operation:
 ~~~st.title("Simple Calculator")
