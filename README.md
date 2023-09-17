@@ -33,3 +33,9 @@ result = calculate(operation, num1, num2)
 st.markdown(f"<h2 style='color: red; font-size: 24px;'>The result is: {result}</h2>", unsafe_allow_html=True)
 ~~~
 
+## Running the App
+To Run the streamlit app, execute the following command in the terminal
+~~~json
+streamlit run streamlit_app.py
+~~~
+This will launch a web browser with the calculator app, where you can enter the numbers and choose an operation to perform. The app will display the result of the calculation with the custom font color and size.
