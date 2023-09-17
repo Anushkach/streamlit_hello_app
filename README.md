@@ -3,12 +3,13 @@ This Python script creates a simple calculator app using the Streamlit library. 
 
 ## Code Explanation
 1. Import the necessary module:
-pre code {
-  background-color: #eee;
-  border: 1px solid #999;
-  display: block;
-  padding: 20px;
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
 }
+```
 2. Add a title and input fields for the two numbers and the operation:
 3. Define a function to perform the selected operation:
 4. Call the calculate function and display the result with custom font color and size:
