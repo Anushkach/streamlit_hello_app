@@ -27,3 +27,10 @@ operation = st.selectbox("Choose an operation", ["Add", "Subtract", "Multiply", 
 ~~~result = calculate(operation, num1, num2)
 st.markdown(f"<h2 style='color: red; font-size: 24px;'>The result is: {result}</h2>", unsafe_allow_html=True)
 ~~~
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
